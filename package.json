@@ -1,0 +1,24 @@
+{
+  "name": "mc-cubed-server",
+  "version": "0.0.1",
+  "description": "A Minecraft Server Installer, Manager and Launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DcmanProductions/MC-Cubed-Server.git"
+  },
+  "author": "Drew Chase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DcmanProductions/MC-Cubed-Server/issues"
+  },
+  "homepage": "https://github.com/DcmanProductions/MC-Cubed-Server#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquerry": "^2.0.0",
+    "popper": "^1.0.1"
+  }
+}
